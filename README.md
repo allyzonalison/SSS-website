@@ -1,4 +1,4 @@
 # SSS-website
 Redesigned Social Security System's website
 
-![Image Description](SSS redesigned.jpg)
+![Image Description](sss.jpg)
